@@ -1,3 +1,9 @@
 # dsa-java
 dsa-java - Data Structures and Algorithms in Java
-file:///home/allan/Downloads/Introduction-to-Data-Structures-and-Algorithms-DSA.png
+
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/all-an/">
+            <img align="center" width="804" height="444"  src="/dsaimage.png" />
+        </a>
+</p>
