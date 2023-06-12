@@ -16,4 +16,5 @@ A stable sorting algorithm maintains the relative order of the items with equal 
 </p>
 
 
-- [Bubblesort](https://github.com/all-an/dsa-java/tree/main/002-sort/001-bubblesort)
+- [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/001-bubblesort)
+- [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/002-selection-sort)
