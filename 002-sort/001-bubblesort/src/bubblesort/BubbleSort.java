@@ -6,7 +6,13 @@ public class BubbleSort {
 
         int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
 
-        for (int lastUnsortedIndex = intArray.length - 1; lastUnsortedIndex > 0;
+        bubbleSortAlgorithm(intArray);
+        
+        printArray(intArray);
+    }
+	
+	public static void bubbleSortAlgorithm(int[] intArray) {
+		for (int lastUnsortedIndex = intArray.length - 1; lastUnsortedIndex > 0;
                 lastUnsortedIndex--) {
             for (int i = 0; i < lastUnsortedIndex; i++) {
                 if (intArray[i] > intArray[i + 1]) {
@@ -14,13 +20,7 @@ public class BubbleSort {
                 }
             }
         }
-
-        for (int i = 0; i < intArray.length; i++) {
-            System.out.println(intArray[i]);
-        }
-
-
-    }
+	}
 
     public static void swap(int[] array, int i, int j) {
 
@@ -32,6 +32,12 @@ public class BubbleSort {
         array[i] = array[j];
         array[j] = temp;
 
+    }
+    
+    public static void printArray(int[] array) {
+    	for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
+        }
     }
 
 }
