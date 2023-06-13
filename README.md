@@ -14,6 +14,7 @@ dsa-java - Data Structures and Algorithms in Java
 - [Sort](https://github.com/all-an/dsa-java/tree/main/002-sort)
     - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/001-bubblesort)
     - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/002-selection-sort)
+    - [Insertion Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/003-insertion-sort)
 
 
 ## Java Data Structures and Algorithms
