@@ -10,12 +10,19 @@ dsa-java - Data Structures and Algorithms in Java
 
 [link and credits to the image, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
+### Data Structures
+
 - [Arrays](https://github.com/all-an/dsa-java/tree/main/001-arrays)
-- [Sort](https://github.com/all-an/dsa-java/tree/main/002-sort)
-    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/001-bubblesort)
-    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/002-selection-sort)
-    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/003-insertion-sort)
-    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/002-sort/004-shell-sort)
+
+### Algorithms
+
+- [Recursion](https://github.com/all-an/dsa-java/tree/main/002-recursion/recursion)
+- [Sort](https://github.com/all-an/dsa-java/tree/main/003-sort)
+    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/001-bubblesort)
+    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/002-selection-sort)
+    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/003-insertion-sort)
+    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/004-shell-sort)
+    
 
 ## Java Data Structures and Algorithms
 
