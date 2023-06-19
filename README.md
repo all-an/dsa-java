@@ -8,13 +8,13 @@ dsa-java - Data Structures and Algorithms in Java
         </a>
 </p>
 
-[link and credits to the image, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+[link and credits to the image www.geeksforgeeks.org, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
-### Data Structures
+### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
 - [Arrays](https://github.com/all-an/dsa-java/tree/main/data-structures/001-arrays)
 
-### Algorithms
+### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
 - [Recursion](https://github.com/all-an/dsa-java/tree/main/algorithms/001-recursion)
 - [Sorting](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting)
