@@ -3,7 +3,7 @@ dsa-java - Data Structures and Algorithms in Java
 
 
 <p align="center">
-        <a href="https://www.linkedin.com/in/all-an/">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
             <img align="center" width="804" height="444"  src="/dsaimage.png" />
         </a>
 </p>
@@ -12,16 +12,16 @@ dsa-java - Data Structures and Algorithms in Java
 
 ### Data Structures
 
-- [Arrays](https://github.com/all-an/dsa-java/tree/main/001-arrays)
+- [Arrays](https://github.com/all-an/dsa-java/tree/main/data-structures/001-arrays)
 
 ### Algorithms
 
-- [Recursion](https://github.com/all-an/dsa-java/tree/main/002-recursion/recursion)
-- [Sort](https://github.com/all-an/dsa-java/tree/main/003-sort)
-    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/001-bubblesort)
-    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/002-selection-sort)
-    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/003-insertion-sort)
-    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/003-sort/004-shell-sort)
+- [Recursion](https://github.com/all-an/dsa-java/tree/main/algorithms/001-recursion)
+- [Sorting](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting)
+    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/001-bubblesort)
+    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/002-selection-sort)
+    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
+    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
     
 
 ## Java Data Structures and Algorithms
