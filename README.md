@@ -22,6 +22,7 @@ dsa-java - Data Structures and Algorithms in Java
     - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/002-selection-sort)
     - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
     - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
+    - [Merge Sort (?unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/005-merge-sort)
     
 
 ## Java Data Structures and Algorithms
