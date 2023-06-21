@@ -130,3 +130,19 @@ mergeSort(input, mid, end);
             <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part9.png" />
         </a>
 </p>
+
+## Tree of recursive mergeSort method calls
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part10.png" />
+        </a>
+</p>
+
+## Visualizing Merging phase, part 1:
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part11.png" />
+        </a>
+</p>
