@@ -139,10 +139,17 @@ mergeSort(input, mid, end);
         </a>
 </p>
 
-## Visualizing Merging phase, part 1:
+## Visualizing Merging phase:
 
 <p align="center">
         <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
             <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part11.png" />
+        </a>
+</p>
+
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part12.png" />
         </a>
 </p>
