@@ -153,3 +153,39 @@ mergeSort(input, mid, end);
             <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part12.png" />
         </a>
 </p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part13.png" />
+        </a>
+</p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part14.png" />
+        </a>
+</p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part15.png" />
+        </a>
+</p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part16.png" />
+        </a>
+</p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part17.png" />
+        </a>
+</p>
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
+            <img align="center" width="804" height="444"  src="/algorithms/002-sorting/005-merge-sort/visualizing-merge-sort/mergesort-part18.png" />
+        </a>
+</p>
