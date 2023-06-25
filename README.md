@@ -33,7 +33,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
     - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
     - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
     - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
-    - [Counting Sort (?unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
+    - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
     
 
 ## Java Data Structures and Algorithms
