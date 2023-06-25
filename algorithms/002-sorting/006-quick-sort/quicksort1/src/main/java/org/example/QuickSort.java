@@ -35,7 +35,7 @@ public class QuickSort {
         while (i < j) {
 
             // NOTE: empty loop body
-            while (i < j && input[--j] >= pivot);
+            while (i < j && input[--j] >= pivot); // keep executing until --j bring index item less than pivot and i >= j
             if (i < j) {
                 input[i] = input[j];
             }

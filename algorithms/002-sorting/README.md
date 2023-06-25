@@ -21,3 +21,5 @@ A stable sorting algorithm maintains the relative order of the items with equal 
     - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
     - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
     - [Merge Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/005-merge-sort) 
+    - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
+    - [Counting Sort (?unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
