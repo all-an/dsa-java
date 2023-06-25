@@ -10,6 +10,16 @@ dsa-java - Data Structures and Algorithms in Java
 
 [link and credits to the image www.geeksforgeeks.org, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
+#### Definitions of Data Structure:
+
+https://en.wikipedia.org/wiki/Data_structure
+https://www.geeksforgeeks.org/data-structures/
+
+#### Definitions of Algorithms:
+
+https://en.wikipedia.org/wiki/Algorithm
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
 - [Arrays](https://github.com/all-an/dsa-java/tree/main/data-structures/001-arrays)
