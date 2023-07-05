@@ -23,6 +23,7 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
 - [Arrays](https://github.com/all-an/dsa-java/tree/main/data-structures/001-arrays)
+- [ArrayLists](https://github.com/all-an/dsa-java/tree/main/data-structures/002-array-lists)
 
 ### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
