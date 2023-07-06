@@ -24,6 +24,10 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
 - [Arrays](https://github.com/all-an/dsa-java/tree/main/data-structures/001-arrays)
 - [ArrayLists](https://github.com/all-an/dsa-java/tree/main/data-structures/002-array-lists)
+- [Vectors](https://github.com/all-an/dsa-java/tree/main/data-structures/003-vectors)
+- [Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists)
+    - [Singly Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists/001-singly-linkedlists)
+    - [Doubly Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists/002-doubly-linkedlists)
 
 ### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
