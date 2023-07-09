@@ -12,13 +12,13 @@ dsa-java - Data Structures and Algorithms in Java
 
 #### Definitions of Data Structure:
 
-https://en.wikipedia.org/wiki/Data_structure
-https://www.geeksforgeeks.org/data-structures/
+- https://en.wikipedia.org/wiki/Data_structure
+- https://www.geeksforgeeks.org/data-structures/
 
 #### Definitions of Algorithms:
 
-https://en.wikipedia.org/wiki/Algorithm
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+- https://en.wikipedia.org/wiki/Algorithm
+- https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
