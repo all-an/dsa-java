@@ -28,6 +28,7 @@ dsa-java - Data Structures and Algorithms in Java
 - [Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists)
     - [Singly Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists/001-singly-linkedlists)
     - [Doubly Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists/002-doubly-linkedlists)
+- [Stacks](https://github.com/all-an/dsa-java/tree/main/data-structures/005-stacks)
 
 ### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
