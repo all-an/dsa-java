@@ -30,6 +30,8 @@ dsa-java - Data Structures and Algorithms in Java
     - [Doubly Linked Lists](https://github.com/all-an/dsa-java/tree/main/data-structures/004-linked-lists/002-doubly-linkedlists)
 - [Stacks](https://github.com/all-an/dsa-java/tree/main/data-structures/005-stacks)
 - [Queues](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues)
+    - [Array Queue](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues/001-array-queue)
+    - [Circular Queue](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues/002-circular-queue)
 
 ### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
