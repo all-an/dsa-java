@@ -32,6 +32,11 @@ dsa-java - Data Structures and Algorithms in Java
 - [Queues](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues)
     - [Array Queue](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues/001-array-queue)
     - [Circular Queue](https://github.com/all-an/dsa-java/tree/main/data-structures/006-queues/002-circular-queue)
+- [Hashtables](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables)
+    - [Array Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/001-array-hashtables)
+    - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
+    - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
+    - [Bucket Sort](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/004-bucket-sort)
 
 ### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
