@@ -1,6 +1,4 @@
-# dsa-java
-dsa-java - Data Structures and Algorithms in Java
-
+# Data Structures and Algorithms in Java
 
 <p align="center">
         <a href="https://www.linkedin.com/in/allan-pereira-abrahao/">
