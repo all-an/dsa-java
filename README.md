@@ -8,15 +8,28 @@
 
 [link and credits to the image www.geeksforgeeks.org, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
+#### Definitions of Algorithms:
+
+- https://en.wikipedia.org/wiki/Algorithm
+- https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
 #### Definitions of Data Structure:
 
 - https://en.wikipedia.org/wiki/Data_structure
 - https://www.geeksforgeeks.org/data-structures/
 
-#### Definitions of Algorithms:
+### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
 
-- https://en.wikipedia.org/wiki/Algorithm
-- https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+- [Recursion](https://github.com/all-an/dsa-java/tree/main/algorithms/001-recursion)
+- [Sorting](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting)
+    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/001-bubblesort)
+    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/002-selection-sort)
+    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
+    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
+    - [Merge Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/005-merge-sort) 
+    - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
+    - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
+    - [Radix Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/008-radix-sort)
 
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
@@ -35,20 +48,6 @@
     - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
     - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
     - [Bucket Sort Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/004-bucket-sort)
-
-### [Algorithms](https://github.com/all-an/dsa-java/tree/main/algorithms/)
-
-- [Recursion](https://github.com/all-an/dsa-java/tree/main/algorithms/001-recursion)
-- [Sorting](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting)
-    - [Bubble Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/001-bubblesort)
-    - [Selection Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/002-selection-sort)
-    - [Insertion Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/003-insertion-sort)
-    - [Shell Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/004-shell-sort)
-    - [Merge Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/005-merge-sort) 
-    - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
-    - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
-    - [Radix Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/008-radix-sort)
-    
 
 ## Java Data Structures and Algorithms
 
