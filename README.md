@@ -53,7 +53,7 @@
 
 [![Java Version](https://img.shields.io/badge/Java-11-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/travis/your-username/java-data-structures-algorithms/master.svg)](https://travis-ci.org/your-username/java-data-structures-algorithms)
+[![Build Status](https://img.shields.io/travis/all-an/java-data-structures-algorithms/master.svg)](https://travis-ci.org/all-an/java-data-structures-algorithms)
 
 ## Description
 
