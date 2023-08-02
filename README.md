@@ -6,7 +6,7 @@
         </a>
 </p>
 
-[link and credits to the image www.geeksforgeeks.org, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+[link and credits for the image above: www.geeksforgeeks.org, their great article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
 #### Definitions of Algorithms:
 
