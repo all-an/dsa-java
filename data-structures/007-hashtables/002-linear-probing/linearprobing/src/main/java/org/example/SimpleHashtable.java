@@ -1,4 +1,4 @@
-package academy.learnprogramming.hashtable;
+package org.example;
 
 public class SimpleHashtable {
 
