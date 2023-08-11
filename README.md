@@ -6,7 +6,7 @@
         </a>
 </p>
 
-[link and credits to the image www.geeksforgeeks.org, feel free to read the article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+[link and credits for the image above: www.geeksforgeeks.org, their great article](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
 #### Definitions of Algorithms:
 
@@ -53,7 +53,7 @@
 
 [![Java Version](https://img.shields.io/badge/Java-11-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/travis/your-username/java-data-structures-algorithms/master.svg)](https://travis-ci.org/your-username/java-data-structures-algorithms)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Description
 
