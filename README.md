@@ -47,7 +47,7 @@
     - [Array Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/001-array-hashtables)
     - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
     - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
-    - [Bucket Sort Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/004-bucket-sort)
+    - [Bucket Sort Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/004-bucket-sort-hashtable)
 
 ## Java Data Structures and Algorithms
 
