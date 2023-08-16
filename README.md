@@ -30,6 +30,7 @@
     - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
     - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
     - [Radix Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/008-radix-sort)
+    - [Bucket Sort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/009-bucket-sort)
 
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
@@ -47,7 +48,6 @@
     - [Array Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/001-array-hashtables)
     - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
     - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
-    - [Bucket Sort Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/004-bucket-sort-hashtable)
 
 ## Java Data Structures and Algorithms
 
