@@ -33,6 +33,7 @@
     - [Bucket Sort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/009-bucket-sort)
 - [Searching](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching)
     - [Linear Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/001-linear-search)
+    - [Binary Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/002-binary-search)
 
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
