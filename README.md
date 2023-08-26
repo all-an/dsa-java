@@ -34,6 +34,7 @@
 - [Searching](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching)
     - [Linear Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/001-linear-search)
     - [Binary Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/002-binary-search)
+    - [Binary Search Trees](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/003-binary-search-trees)
 
 ### [Data Structures](https://github.com/all-an/dsa-java/tree/main/data-structures/)
 
@@ -51,6 +52,7 @@
     - [Array Hashtable](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/001-array-hashtables)
     - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
     - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
+- [Trees](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/003-binary-search-trees)
 
 ## Java Data Structures and Algorithms
 
