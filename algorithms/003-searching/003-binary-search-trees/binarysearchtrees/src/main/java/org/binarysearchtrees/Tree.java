@@ -13,5 +13,11 @@ public class Tree {
 		}
 	}
 
+	public int getRoot() {
+		return root.getData();
+	}
 
+	public void setRoot(int rootValue) {
+		this.root.setData(rootValue);
+	}
 }

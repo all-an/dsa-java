@@ -6,6 +6,10 @@ public class TreeNode {
 	private TreeNode leftChild;
 	private TreeNode rightChild;
 
+	public TreeNode(int data) {
+		this.data = data;
+	}
+
 	public void insert(int value) {
 		if (value == data) {
 			return;
@@ -14,23 +18,16 @@ public class TreeNode {
 		if (value < data) {
 			if (leftChild == null) {
 				leftChild = new TreeNode(value);
-			}
-			else {
+			} else {
 				leftChild.insert(value);
 			}
-		}
-		else {
+		} else {
 			if (rightChild == null) {
 				rightChild = new TreeNode(value);
-			}
-			else {
+			} else {
 				rightChild.insert(value);
 			}
 		}
-	}
-
-	public TreeNode(int data) {
-		this.data = data;
 	}
 
 	public int getData() {

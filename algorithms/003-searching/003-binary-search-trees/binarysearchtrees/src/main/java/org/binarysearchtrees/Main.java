@@ -13,5 +13,7 @@ public class Main {
 		intTree.insert(22);
 		intTree.insert(32);
 
+		System.out.println(intTree.getRoot());
+
 	}
 }
