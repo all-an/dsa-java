@@ -25,5 +25,9 @@ public class Main {
 
 		System.out.println(intTree.min());
 		System.out.println(intTree.max());
+
+		intTree.delete(1);
+
+		intTree.traverseInOrder();
 	}
 }

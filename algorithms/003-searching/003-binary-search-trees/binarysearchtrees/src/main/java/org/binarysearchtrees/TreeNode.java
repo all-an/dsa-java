@@ -18,13 +18,16 @@ public class TreeNode {
 		if (value < data) {
 			if (leftChild == null) {
 				leftChild = new TreeNode(value);
-			} else {
+			}
+			else {
 				leftChild.insert(value);
 			}
-		} else {
+		}
+		else {
 			if (rightChild == null) {
 				rightChild = new TreeNode(value);
-			} else {
+			}
+			else {
 				rightChild.insert(value);
 			}
 		}
@@ -99,5 +102,9 @@ public class TreeNode {
 
 	public void setRightChild(TreeNode rightChild) {
 		this.rightChild = rightChild;
+	}
+
+	public String toString() {
+		return "Data = " + data;
 	}
 }
