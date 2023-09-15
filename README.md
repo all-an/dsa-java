@@ -53,6 +53,7 @@
     - [Linear Probing](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/002-linear-probing)
     - [Chaining](https://github.com/all-an/dsa-java/tree/main/data-structures/007-hashtables/003-chaining)
 - [Trees](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/003-binary-search-trees)
+- [Heaps](https://github.com/all-an/dsa-java/tree/main/data-structures/008-heaps)
 
 ## Java Data Structures and Algorithms
 
