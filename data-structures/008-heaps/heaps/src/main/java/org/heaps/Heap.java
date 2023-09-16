@@ -1,4 +1,4 @@
-package org.example;
+package org.heaps;
 
 public class Heap {
 
