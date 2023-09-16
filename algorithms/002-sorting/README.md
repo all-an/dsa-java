@@ -24,3 +24,5 @@ A stable sorting algorithm maintains the relative order of the items with equal 
     - [Quick Sort (unstable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/006-quick-sort)
     - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
     - [Radix Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/008-radix-sort)
+    - [Bucket Sort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/009-bucket-sort)
+    - [Heapsort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/012-heapsort)

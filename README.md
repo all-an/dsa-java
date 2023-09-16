@@ -31,6 +31,7 @@
     - [Counting Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/007-counting-sort)
     - [Radix Sort (stable sort)](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/008-radix-sort)
     - [Bucket Sort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/009-bucket-sort)
+    - [Heapsort](https://github.com/all-an/dsa-java/tree/main/algorithms/002-sorting/012-heapsort)
 - [Searching](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching)
     - [Linear Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/001-linear-search)
     - [Binary Search](https://github.com/all-an/dsa-java/tree/main/algorithms/003-searching/002-binary-search)
