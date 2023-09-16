@@ -9,6 +9,14 @@ public class Heap {
         heap = new int[capacity];
     }
 
+    public int peek() {
+        if (isEmpty()) {
+            throw new IndexOutOfBoundsException("Heap is empty");
+        }
+
+        return heap[0];
+    }
+
     public void insert(int value) {
         if (isFull()) {
             throw new IndexOutOfBoundsException("Heap is full");

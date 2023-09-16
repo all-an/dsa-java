@@ -19,7 +19,14 @@ public class Main {
 
         heap.printHeap();
 
+        System.out.println("peek: " + heap.peek());
+
         heap.delete(0);
         heap.printHeap();
+
+        myHeap.delete(0);
+        //myHeap.delete(1); // IndexOutOfBoundsException: Heap is empty
+
+        System.out.println("peek: " + heap.peek());
     }
 }
