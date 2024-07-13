@@ -80,11 +80,7 @@ This Java project provides a collection of common data structures and algorithms
 
 2. Navigate to the project directory:
 
-   cd dsa-java
-
-3. Build the project using Maven:
-
-   mvn clean install
+   # open on ide Intellij
 
 ## Contributing
 
